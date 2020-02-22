@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "30375759552589596b40aee71d31ec5d"
+build_time: [1582334827, 232829000]
+inputs:
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Tumblr_1/PhotoCell.swift": [1582332083, 409644019]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Tumblr_1/PhotosViewController.swift": [1582333955, 38788794]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Tumblr_1/AppDelegate.swift": [1582330089, 531500084]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Tumblr_1/SceneDelegate.swift": [1582330089, 534080710]

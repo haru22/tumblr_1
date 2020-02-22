@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "3e8a69527cc2838680f7b7ce9a712ac4"
+build_time: [1582334821, 17130000]
+inputs:
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/AFError.swift": [1582332755, 221409121]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Alamofire.swift": [1582332755, 224125351]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1582332755, 219483105]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/MultipartFormData.swift": [1582332755, 217983935]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1582332755, 218618964]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Notifications.swift": [1582332755, 222364932]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/ParameterEncoding.swift": [1582332755, 220629000]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Request.swift": [1582332755, 224820618]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Response.swift": [1582332755, 223172857]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/ResponseSerialization.swift": [1582332755, 226103660]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Result.swift": [1582332755, 219931802]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1582332755, 226450439]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/SessionDelegate.swift": [1582332755, 226840005]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/SessionManager.swift": [1582332755, 225531371]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/TaskDelegate.swift": [1582332755, 216790826]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Timeline.swift": [1582332755, 219063233]
+  "/Users/haruna/Documents/iOSdev/Tumblr_1/Pods/Alamofire/Source/Validation.swift": [1582332755, 221842864]
